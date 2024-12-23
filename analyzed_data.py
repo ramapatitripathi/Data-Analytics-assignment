@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-file_path = "C:\\Users\\Ramapati\\OneDrive\\Desktop\\data analyst\\merge2.xlsx"  # Replace with your file path
+file_path = "C:\\Users\\Ramapati\\OneDrive\\Desktop\\data analyst\\merged_dataset.xlsx"  # Replace with your file path
 data = pd.read_excel(file_path)
 
 # Preview the data

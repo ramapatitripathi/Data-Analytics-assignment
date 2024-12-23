@@ -1,10 +1,10 @@
 # Data-Analytics-assignment
 **Data Analysis of User Behavior, Cooking Preferences, and Order Trends**
-***Objective***
+***Objective***:
 
 The objective of this project is to analyze datasets related to user behavior, cooking preferences, and order trends. The project involves cleaning, merging, and analyzing three datasets: UserDetails, CookingSessions, and OrderDetails. The insights gained will help understand the relationship between cooking sessions, user orders, popular dishes, and demographic factors that influence user behavior.
 
-***Dataset***
+***Dataset***:
 
 The data consists of three main datasets:
 
@@ -29,7 +29,7 @@ The top dishes were identified based on the number of orders.
 ***3. Demographic Analysis***:
 
 A demographic analysis was conducted to examine orders by age group and location.
-***4. Data Visualizations***
+***4. Data Visualizations***:
 
 **Key insights were visualized using bar plots, showcasing:**
 
@@ -37,7 +37,7 @@ A demographic analysis was conducted to examine orders by age group and location
 
 ->Orders by age group.
 
-**Key Findings**
+**Key Findings**:
 
 ***1-Session and Order Analysis:*** Users who rated their cooking sessions highly tend to place more orders.
 
@@ -45,7 +45,7 @@ A demographic analysis was conducted to examine orders by age group and location
 
 ***3-Demographics:*** The majority of orders come from young adults and adults, with specific locations showing higher order volumes.
 
-**Business Recommendations**
+**Business Recommendations**:
 
 1- Focus marketing efforts on promoting popular dishes.
 

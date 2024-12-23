@@ -73,3 +73,8 @@ Place the cleaned and merged Excel file (merge2.xlsx) in the same directory as d
 **Run the script:**
 
 python data_analysis.py
+ui![Screenshot 2024-12-24 034627](https://github.com/user-attachments/assets/b69fd95e-ff96-4e6d-ae58-6d532c0416bb)
+ui![Screenshot 2024-12-24 034647](https://github.com/user-attachments/assets/13e45524-c589-4e03-b5ab-8dbbad9ea4ff)
+
+
+
